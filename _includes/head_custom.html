@@ -1,3 +1,36 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+<!-- Credit https://github.com/just-the-docs/just-the-docs/issues/1223 -->
+<script>
+    window.addEventListener("DOMContentLoaded", function() {
+    const theme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', theme);
+
+    const toggleDarkMode = document.getElementById("theme-toggle");
+
+    if (theme === "dark") {
+        setToggleTheme('dark');
+    } else if (theme === "light") {
+        setToggleTheme('light');
+    }
+
+    jtd.addEvent(toggleDarkMode, 'click', function(){
+        const currentTheme = jtd.getTheme();
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+
+        localStorage.setItem('theme', newTheme);
+        setToggleTheme(newTheme);
+    });
+
+
+
+    function setToggleTheme(theme) {
+        jtd.setTheme(theme);
+        if (theme === 'dark') {
+            toggleDarkMode.innerHTML = `<svg width='18px'><use href="#svg-moon"></use></svg>`;
+        } else {
+            toggleDarkMode.innerHTML = `<svg width='18px'><use href="#svg-sun"></use></svg>`;
+        }
+    }})
+</script>
