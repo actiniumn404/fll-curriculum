@@ -1,6 +1,7 @@
 ---
-title: Example FOR FLL STUFF
-nav_order: 2
+title: Lesson 0
+nav_order: 1
+parent: FLL Curriculum
 ---
 
 # Example for FLL Stuff
