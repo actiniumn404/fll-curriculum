@@ -117,7 +117,7 @@ export class Quiz extends LitElement{
             this.curRightText = "Next"
         }
 
-        if (this.curQuestion == this.numQuestions){
+        if (question.done && this.curQuestion === this.numQuestions){
             celebration()
         }
     }
@@ -381,5 +381,3 @@ let celebration = () => {
         startVelocity: 45,
     });
 }
-
-window.celebration = celebration
