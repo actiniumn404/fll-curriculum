@@ -31,8 +31,12 @@
     function setToggleTheme(theme) {
         jtd.setTheme(theme);
         if (theme === 'dark') {
+            document.documentElement.classList.add("dark");
+            document.documentElement.classList.remove("light");
             toggleDarkMode.innerHTML = `<svg width='18px'><use href="#svg-moon"></use></svg>`;
         } else {
+            document.documentElement.classList.remove("dark");
+            document.documentElement.classList.add("light");
             toggleDarkMode.innerHTML = `<svg width='18px'><use href="#svg-sun"></use></svg>`;
         }
     }})

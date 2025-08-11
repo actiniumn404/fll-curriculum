@@ -29,13 +29,13 @@ export class Quiz extends LitElement{
 
       #actions button {
         border: none;
-        background: none;
         box-shadow: 0 0 4px #18181b;
         padding: 10px;
         border-radius: 4px;
         cursor: pointer;
         font-weight: 600;
         color: #18181b;
+        background: white;
       }
 
       #actions button:hover {
@@ -270,6 +270,7 @@ export class QuizMCOption extends LitElement{
         align-items: center;
         cursor: pointer;
         border-radius: 5px;
+        color: black;
       }
       
       #identifier{
@@ -312,6 +313,10 @@ export class QuizMCOption extends LitElement{
       
       ::slotted(img){
         max-width: 100%;
+      }
+      
+      html > *{
+        background: red !important;
       }
     `
 
