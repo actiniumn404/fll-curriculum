@@ -196,6 +196,7 @@ export class QuizMultipleChoiceQuestion extends LitElement{
         let same = false
         for (let option of this.options){
             option.removeAttribute("reveal")
+            option.removeAttribute("blur")
             if (option.getAttribute("selected")){
 
                 if (option === target){
@@ -210,10 +211,10 @@ export class QuizMultipleChoiceQuestion extends LitElement{
             }
             curCounter++
         }
-        if (!same){
+        //if (!same){
             this.dispatchEvent(new CustomEvent('selection', {}))
             this.done = false
-        }
+        //}
     }
 
     getOption(index){
@@ -228,7 +229,7 @@ export class QuizMultipleChoiceQuestion extends LitElement{
         if (this.getOption(this.selected).correct){
             this.done = true
             for (let option of this.options){
-                option.revealOption()
+                option.revealOption(true)
             }
         }else{
             this.getOption(this.selected).revealOption()
@@ -256,15 +257,27 @@ export class QuizMCOption extends LitElement{
         selected: {type: Boolean, reflect: true},
         correct: {type: Boolean, reflect: true},
         reveal: {type: Boolean, reflect: true},
-        identifier: {type: String, reflect: true}
+        identifier: {type: String, reflect: true},
+        blur: {type: Boolean, reflect: true}
     }
 
     static styles = css`
         :host(:not([reveal])) ::slotted(quiz-explanation) {
             display: none;
         }
+      
+      :host([blur]:not([correct])){
+        background: white;
+        opacity: 0.5;
+      }
+      
+      :host([blur][correct]){
+        background: #f0fdf4;
+      }
+      
       :host{
         background: whitesmoke;
+        border: 1px solid black;
         padding: 15px;
         width: 100%;
         display: flex;
@@ -273,6 +286,7 @@ export class QuizMCOption extends LitElement{
         cursor: pointer;
         border-radius: 5px;
         color: black;
+        transition: opacity 0.5s, background 0.5s;
       }
       
       #identifier{
@@ -330,15 +344,26 @@ export class QuizMCOption extends LitElement{
         this.correct = false
         this.reveal = false
         this.identifier = ""
-
     }
 
     render(){
+
+        if (!this.querySelector("quiz-explanation").innerHTML){
+            if (this.correct){
+                this.querySelector("quiz-explanation").innerHTML = "Correct"
+            }else{
+                this.querySelector("quiz-explanation").innerHTML = "Incorrect"
+            }
+        }
+
         return html`<div id="identifier">${this.identifier}</div><div id="content"><slot></slot></div>`
     }
 
-    revealOption(){
+    revealOption(blur=false){
         this.reveal = true
+        if (blur){
+            this.blur = true
+        }
     }
 }
 
