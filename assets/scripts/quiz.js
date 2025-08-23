@@ -170,11 +170,13 @@ export class QuizMultipleChoiceQuestion extends LitElement{
 
     render(){
 
-        let curIdentifier = 1
+        let curIdentifier = 0
+
+        let letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
         for (let option of this.options){
             if (!option.getAttribute("identifier")){
-                option.setAttribute("identifier", curIdentifier)
+                option.setAttribute("identifier", letters[curIdentifier])
                 curIdentifier++
             }
         }
@@ -282,6 +284,8 @@ export class QuizMCOption extends LitElement{
         justify-content: center;
         border-radius: 100%;
         min-width: 25px;
+        line-height: 1;
+        text-align: center;
       }
       
       :host([selected]) #identifier{
