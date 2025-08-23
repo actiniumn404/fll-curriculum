@@ -7,7 +7,8 @@ parent: FLL Curriculum
 # Title
 {: .no_toc }
 
-In this lesson, we’ll explore the LEGO Spike Prime kit and learn the basics of what makes a robot work. You’ll get introduced to the key parts of the kit, the sensors and their functions, the hub (the robot’s “brain”), and how block coding brings it all together. {: .fs-6 .fw-300 }
+In this lesson, we’ll explore the LEGO Spike Prime kit and learn the basics of what makes a robot work. You’ll get introduced to the key parts of the kit, the sensors and their functions, the hub (the robot’s “brain”), and how block coding brings it all together. 
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
