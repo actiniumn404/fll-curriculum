@@ -1,7 +1,9 @@
 ---
-title: Lesson 0
+title: Template
 nav_order: 1
 parent: FLL Curriculum
+nav_exclude: true
+search_exclude: true
 ---
 
 # Example for FLL Stuff

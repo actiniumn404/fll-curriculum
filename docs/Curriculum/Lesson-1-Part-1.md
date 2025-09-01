@@ -1,10 +1,10 @@
 ---
-title: Lesson 1
+title: Introduction to SPIKE
 nav_order: 1
 parent: FLL Curriculum
 ---
 
-# Title
+# Lesson 1, Part 1: Introduction to SPIKE
 {: .no_toc }
 
 In this lesson, we’ll explore the LEGO Spike Prime kit and learn the basics of what makes a robot work. You’ll get introduced to the key parts of the kit, the sensors and their functions, the hub (the robot’s “brain”), and how block coding brings it all together. 
