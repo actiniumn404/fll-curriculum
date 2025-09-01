@@ -1,5 +1,5 @@
 ---
-title: Color and Distance Sensor
+title: 1.3 - Color and Distance Sensor
 nav_order: 3
 parent: FLL Curriculum
 ---

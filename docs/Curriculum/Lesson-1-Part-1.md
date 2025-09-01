@@ -1,5 +1,5 @@
 ---
-title: Introduction to SPIKE
+title: 1.1 - Introduction to SPIKE
 nav_order: 1
 parent: FLL Curriculum
 ---

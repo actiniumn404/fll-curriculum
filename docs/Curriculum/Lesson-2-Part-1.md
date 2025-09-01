@@ -1,5 +1,5 @@
 ---
-title: Building The Spike Prime Drive Base
+title: 2.1 - Building The Spike Prime Drive Base
 nav_order: 5
 parent: FLL Curriculum
 ---
@@ -46,81 +46,81 @@ In this lesson, we’ll go over how to build the Spike Prime drive base. The dri
     </quiz-mc-question>
 
     <quiz-mc-question >
-        What is the purpose of the “when released” event block for the Force Sensor?
+        Why is it important to make sure the white side of the hub is facing up when you start building?
         <quiz-option >
-            To tell the motor to spin faster or slower.
+            So the hub can see with its lights.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option>
-            To play a sound when the sensor is not being pressed.
+            So the battery doesn't fall out.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option correct>
-            To make the program stop when the pressure on the sensor is gone.
+            To make sure all the ports are in the correct place for the wires.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option>
-            To tell the motor to turn 90 degrees.
+            To make the hub look cool.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
     </quiz-mc-question>
 
     <quiz-mc-question >
-        What is the key difference between using a “start motor” block and a “run for 1 rotation” block?
+        What is the purpose of the yellow axles you insert into the motors?
         <quiz-option>
-            The “start motor” block moves the motor for a specific time, while “run for” makes it move forever.
+            To hold the motor in place on the frame.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option >
-            The “start motor” block can only be used with the Gyro Sensor, but “run for” can be used with any sensor.
+            To connect the wheels to the motor so they can spin.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option correct>
-            The “start motor” block makes the motor run continuously, while the “run for” block makes it run for a specific amount of time or rotation.
+            To make the motor go faster.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option>
-            The “start motor” block can only be used with the Force Sensor, while “run for” can only be used with the Gyro Sensor.
+            To secure the wires.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
     </quiz-mc-question>
 
     <quiz-mc-question >
-        A program uses a "when tilted" block to play a sound. If you want the sound to play when the robot is turned around a full circle (360°), what would you do?        
+        What is the main purpose of the ball cup and white ball assembly?
         <quiz-option >
-            Change the event block to "when pressed".
+            It makes the robot turn.
+            <quiz-explanation></quiz-explanation>
+        </quiz-option>
+        <quiz-option correct> 
+            It acts as a rolling support for the robot.
+            <quiz-explanation></quiz-explanation>
+        </quiz-option>
+        <quiz-option >
+            It holds the battery in place.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option>
-            Use a "run for" block with the motor.
-            <quiz-explanation></quiz-explanation>
-        </quiz-option>
-        <quiz-option correct>
-            Change the number of degrees in the "when tilted" block.
-            <quiz-explanation></quiz-explanation>
-        </quiz-option>
-        <quiz-option>
-            Change the sound to a longer sound.
+            It connects the hub to the main frame.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
     </quiz-mc-question>
 
     <quiz-mc-question>
-        A robot has a program that makes a motor spin when the Force Sensor is pressed. What kind of blocks would be needed to make the motor spin only while the sensor is being held down?
+        What is the main job of the black bevel gear on the larger motor?
         <quiz-option>
-            A "when pressed" block and a "run for" block.
+            To make the motor stop.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option >
-             A "start sound" block and a "when tilted" block.
+            To connect the motor to the wheels.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option>
-            A "start motor" block and a "stop motor" block.
+            To make the motor spin in a different direction.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
         <quiz-option correct>
-            A "when pressed" event block with a "start motor" block, and a "when released" event block with a "stop motor" block.
+            To help transfer power from the motor to other gears.
             <quiz-explanation></quiz-explanation>
         </quiz-option>
     </quiz-mc-question>

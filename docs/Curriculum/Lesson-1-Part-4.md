@@ -1,5 +1,5 @@
 ---
-title: Force Sensor
+title: 1.4 - Force Sensor
 nav_order: 4
 parent: FLL Curriculum
 ---

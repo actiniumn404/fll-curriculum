@@ -1,5 +1,5 @@
 ---
-title: The Hub
+title: 1.2 - The Hub
 nav_order: 2
 parent: FLL Curriculum
 ---
