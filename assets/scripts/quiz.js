@@ -26,6 +26,12 @@ export class Quiz extends LitElement{
         font-weight: 600;
         margin-top: 10px;
       }
+      
+      @media print{
+        #actions{
+          display: none;
+        }
+      }
 
       #actions button {
         border: none;
@@ -146,10 +152,17 @@ export class QuizMultipleChoiceQuestion extends LitElement{
         display: flex;
         flex-direction: column;
         gap: 10px;
+        margin-bottom: 20px;
       }
-      
+
       :host([hidden]){
         display: none;
+      }
+      
+      @media print{
+        :host([hidden]){
+          display: flex !important;
+        } 
       }
     `
 
