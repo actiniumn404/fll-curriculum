@@ -1,5 +1,5 @@
 ---
-title: 2.1 - Building The Spike Prime Drive Base
+title: 2.1 - Drive Base
 nav_order: 5
 parent: FLL Curriculum
 ---
