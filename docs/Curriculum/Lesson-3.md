@@ -14,7 +14,7 @@ In this lesson, we’ll learn about logic, such as if-then statements and loops.
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 

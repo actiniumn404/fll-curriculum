@@ -28,11 +28,13 @@ In this guide specifically, we will be focusing on the Robot Game and the Resear
 ## Robot Game
 ### Game Strategy
 There are typically around 16 challenges on the board that a team needs to attempt to complete within 2 minutes and 30 seconds. Since that is way too much to attempt in one go, it is very important to priortize missions. This is typically done by point values and missions that can be completed with similar attachments. Since you can return to base throughout the match, you also need to consider which missions are on the same path, and how frequently you want your robot to return to base. Returning to base is an opportunity to change your code and attachments on the robot.
-
 Between competitions, it is a great opportunity to optimize your code and add missions to complete to increase your score and improve your performance at the next competition.
-
+![img.png](/assets/images/ultimateguide/img.png)
 ### Design
-The next step is to design your robot digitally. For SPIKE, the best tool is to use Studio 2.0. This allows you to visualize how your robot looks like and significantly boosts your score compared to other teams who have not completed this process. Follow [these instructions](https://primelessons.org/en/ProgrammingLessons/CAD.pdf) on how to download Studio 2.0 and import the SPIKE parts.
+Th/assets/images/ultimateguide/e next step is to design your robot digitally. For SPIKE, the best tool is to use Studio 2.0. This allows you to visualize how your robot looks like and significantly boosts your score compared to other teams who have not completed this process. Follow [these instructions](https://primelessons.org/en/ProgrammingLessons/CAD.pdf) on how to download Studio 2.0 and import the SPIKE parts.
+
+![img_1.png](/assets/images/ultimateguide/img_1.png)
+![img_2.png](/assets/images/ultimateguide/img_2.png)
 
 ### Parts
 There are 7 main categories of [parts](https://le-www-live-s.legocdn.com/sc/media/files/support/spike-prime/le_spike_prime_set_element_overview_classroom_poster_18x24inch-a7ecd36fbf6d15fd4c7617f4cb882531.pdf):
@@ -57,6 +59,8 @@ There are 7 main categories of [parts](https://le-www-live-s.legocdn.com/sc/medi
    * Crown Gears
 
 A great way to train students on using the Studio 2.0 software is to have them practice building structures, naming different components of the structure, and explaining what functionality the component might serve on a robot. Here are some good examples for students to practice:
+
+![img_3.png](/assets/images/ultimateguide/img_3.png)
 
 ### Build 
 After students have built their robot digitally, it is time for them to build the robot in real life. It is important to purchase the [SPIKE Prime Kit](https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/#spike%E2%84%A2-prime). Since this is very similar to designing the robot but building it in real life instead, there is no additional information to add here. However, here are some resources to help with the process.
@@ -87,16 +91,23 @@ There are 9 types of blocks:
 
 Once you have written your code, click the “Connect” button to connect to your SPIKE hub and upload your code. There is not a way to test your code virtually.
 
+![img_4.png](img_4.png)
+![img_5.png](/assets/images/ultimateguide/img_5.png)
+
 #### Setting up Motors
 You can control movement using rotations, degrees, seconds, centimeters, and inches. There are 4 steps to control them:
 1. Set which ports have motors
 2. Set the number of inches/cm in one motor rotation
 3. Set the speed of movement
 
+![img_6.png](/assets/images/ultimateguide/img_6.png)
+
 #### Move Robot in Square
 1. Use repeat block to repeat action within the block a set number of times
 2. Within the repeat block, move forward for 1 rotation
 3. Within the repeat block, rotate robot 90 degrees
+
+![img_7.png](/assets/images/ultimateguide/img_7.png)
 
 ## Research Project
 The Research Project is a critical aspect of FIRST Lego League. Here is a great video that discusses the basics of the research project:
@@ -119,6 +130,8 @@ The FLL topic is typically extremely broad. This is why it is important to resea
 ### Step 2: List Mini Challenges
 The topic is too broad to solve all at once. This is why your research will be used to identify specific challenges within that broader topic to develop a solution for.
 
+![img_8.png](/assets/images/ultimateguide/img_8.png)
+
 ### Step 3: Select a Challenge to Research
 Time to select one of these challenges. Create a combined list of challenges with your team and work on selecting a challenge. Some tips include:
 * Eliminate options everyone doesn't like
@@ -136,12 +149,16 @@ With your selected challenge picked, you need to get very specific to the proble
 
 It is also very important to talk with experts and facilities. Before going to a meeting, prepare questions and be knowledgeable in what you want to ask them. Make sure to take very thorough notes in your research so that you can reference them later for the judging presentation.
 
+![img_9.png](/assets/images/ultimateguide/img_9.png)
+
 ### Step 5: Selecting the Solution
 
 It is time to think of some possible solutions to your problem. Make sure that this is not an existing solution and solves the challenge effectively. Once there are lots of ideas brainstormed, time to narrow down ideas again and select one. Sometimes combining ideas can be valuable. One of the most effective strategies is to create a criteria table. List criteria that the best solution must meet and rank each solution on how effectively they reach that criteria. The solution with the greatest number of points wins!
 
 ### Step 6: Develop the Solution
 When developing the solution, it is important to draw a basic sketch and also create a physical model. Think through everything about your solution! Is it realistic, humane, and cost effective? How does it impact the problem? Why is it better then current solutions? And how will you implement it in your solution? Listing out all these details will only make it easier to answer very specific questions that judges ask.
+
+![img_10.png](/assets/images/ultimateguide/img_10.png)
 
 ### Step 7: Present to the Community
 
