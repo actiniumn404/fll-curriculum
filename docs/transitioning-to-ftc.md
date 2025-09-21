@@ -64,4 +64,4 @@ Our team is always happy to mentor your team! Feel free to reach out to us with 
 
 Email - [ftc18225@gmail.com](mailto:ftc18225@gmail.com)
 
-Website - [https://ftc18225.everstem.org](https://ftc18225.everstem.org)
+Website - [https://ftc18225.nw1robotics.org](https://ftc18225.nw1robotics.org)
