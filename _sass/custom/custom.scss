@@ -67,6 +67,49 @@ content-quiz{
     width: 100%;
 }
 
+#search-toggle{
+    display: none;
+}
+
+@media (max-width: 800px){
+    #theme-toggle{
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        right: 56px;
+        height: 59px;
+    }
+
+    #search-toggle{
+        display: block;
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        right: calc(2 * 56px);
+        height: 59px;
+    }
+
+    #search-toggle svg{
+        height: 29px;
+    }
+
+    #main-header{
+        display: block;
+    }
+
+    .search{
+        display: none;
+    }
+
+    .site-title{
+        width: fit-content;
+    }
+
+    .side-bar + .main .main-header.nav-open .search{
+        display: block;
+    }
+}
+
 @media print{
     .site-logo{
         display: none;

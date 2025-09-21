@@ -1,11 +1,11 @@
 ---
 title: Transitioning to FTC FAQ
-nav_order: 3
+nav_order: 4
 ---
 # Transitioning to FTC FAQ
 {: .no_toc }
 
-By Team 18225 - High Definition
+By STEM Reach Initiative
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -37,7 +37,7 @@ The starter kits in FTC don't really help as much as the kit does in FLL. We rec
 
 ## Is there a different type of electronic set allowed for FTC, if so, what are those, and which one your team would recommend?
 
-The legal electronic set includes a REV control hub + Android Phone (or REV expansion hub and 2 phones, but we recommend the control hub), REV battery, and REV power switch. Other electronics are based on your team's preference and can be found here: https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/legal-illegal-parts-list.pdf
+The legal electronic set includes a REV control hub + Android Phone (or REV expansion hub and 2 phones, but we recommend the control hub), REV battery, and REV power switch. Other electronics are based on your team's preference and can be found [on the official FIRST website](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/legal-illegal-parts-list.pdf).
 
 
 ## I understand the game field size 12' X 12', but do we need that much space for practice? If not, what is the field size recommended for practice?
@@ -47,12 +47,12 @@ Nope, you definitely don't need the entire field. FTC has a half-field option wh
 
 ## Can the field mat be any mat, or should we get it from some approved vendor?
 
-The field has to have these soft tiles: https://www.andymark.com/products/soft-tiles-for-first-tech-challenge-field-options?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIycSUyMiUzQSUyMmZ0YyttYXQlMjIlN0Q
+The field has to have specific [official soft tiles](https://www.andymark.com/products/soft-tiles-for-first-tech-challenge-field-options?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIycSUyMiUzQSUyMmZ0YyttYXQlMjIlN0Q).
 
 
 ## Tools/programming language that the team should get familiar with?
 
-Even though block programming is an option many teams use, we recommend using Java-based programming to increase your flexibility. You can find our Introduction to Java-Based Programming in the FTC guide on our website here: https://ftc18225.everstem.org/resources
+Even though block programming is an option many teams use, we recommend using Java-based programming to increase your flexibility.
 
 
 ## Anything that the team can prepare/look into at this time?

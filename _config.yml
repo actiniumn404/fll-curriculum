@@ -1,13 +1,10 @@
-title: FLL Curriculum
+title: STEM Reach Initiative
 tagline: Created by FTC 18225 High Definition
 description: To help teams reach as high as possible
 theme: just-the-docs
 
 url: https://github.com/actiniumn404/fll-curriculum
 repo: https://github.com/actiniumn404/fll-curriculum
-
-aux_links:
-  FLL Website: https://www.firstlegoleague.org/
 
 aux_links_new_tab: true
 
@@ -26,13 +23,13 @@ defaults:
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2025 <a href='https://ftc18225.nw1robotics.org/' target='_blank'>FTC 18225.</a>"
+footer_content: "Copyright &copy; 2025 STEM Reach Initiative"
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 #last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-logo: "/assets/images/highDefLogo.png"
+logo: "/assets/images/stemreachlogobg.png"
 
-favicon_ico: "/assets/images/highDefLogo.png"
+favicon_ico: "/assets/images/stemreachlogobg.png"
 permalink: pretty

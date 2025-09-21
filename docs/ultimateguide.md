@@ -5,7 +5,7 @@ nav_order: 2
 # The Ultimate FLL Guide
 {: .no_toc }
 
-By Team 18225 - High Definition
+By STEM Reach Initiative
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -167,5 +167,5 @@ Once you have developed your solution, it is important to share your findings. D
 ## Conclusion
 We hope that this guide helped you in the basics of FIRST Lego League and wish you the best in your journey forward. **Our team is always happy to mentor your team!** Feel free to reach out to us with the following methods:
 
-Email - [ftc18225@gmail.com](mailto:ftc18225@gmail.com)
-Website - [https://ftc18225.everstem.org](https://ftc18225.everstem.org)
+Email - [ftc18225@gmail.com](mailto:ftc18225@gmail.com)\\
+Website - [https://ftc18225.nw1robotics.org](https://ftc18225.everstem.org)
