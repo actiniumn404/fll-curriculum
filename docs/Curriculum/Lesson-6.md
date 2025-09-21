@@ -19,8 +19,7 @@ In this lesson, you'll learn about gears and how they're used in robotics. We'll
 ---
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ErDj8myI_Tg?si=s1CXRpumwxveoNae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe src="https://drive.google.com/file/d/1NhVM3SP-hDBlmdm6x8UWL-DM-vbKWm5o/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Quiz
 <content-quiz>
