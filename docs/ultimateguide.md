@@ -5,7 +5,7 @@ nav_order: 2
 # The Ultimate FLL Guide
 {: .no_toc }
 
-By STEM Reach Initiative
+By Reach for STEM Initiative
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -17,7 +17,7 @@ By STEM Reach Initiative
 
 ## Overview
 
-FIRST Lego League is an amazing program that may be overwhelming at first, but definitely worth it once you understand everything. In this guide, FTC 18225 will walk you through various aspects of FLL so that you feel more prepared as you step into the challenge! Before we begin, an important note that FLL recently realized the SPIKE gameset after several years of using EV3. This guide will be following SPIKE since it is recommended to transition into the newer set.
+FIRST Lego League is an amazing program that may be overwhelming at first, but definitely worth it once you understand everything. In this guide, Reach for STEM Initiative will walk you through various aspects of FLL so that you feel more prepared as you step into the challenge! Before we begin, an important note that FLL recently realized the SPIKE gameset after several years of using EV3. This guide will be following SPIKE since it is recommended to transition into the newer set.
 
 
 There are 3 parts to FLL, the Robot Game, Core Values, and the Research Project. Every year, there is a new theme and therefore, a different prompt for each of these sections. Core Values is focused in being respectful and a gracious professional on and off the playing field. The Robot Game is where you have 2 minutes and 30 seconds to complete various missions on a field. The Research Project is where teams research a specific prompt, find a problem, and create a solution to that problem. They will then have 2 minutes to present it to the judges.
@@ -91,7 +91,7 @@ There are 9 types of blocks:
 
 Once you have written your code, click the “Connect” button to connect to your SPIKE hub and upload your code. There is not a way to test your code virtually.
 
-![img_4.png](img_4.png)
+![img_4.png](/assets/images/ultimateguide/img_4.png)
 ![img_5.png](/assets/images/ultimateguide/img_5.png)
 
 #### Setting up Motors
@@ -165,7 +165,4 @@ When developing the solution, it is important to draw a basic sketch and also cr
 Once you have developed your solution, it is important to share your findings. Develop a presentation and present it to your family, friends, teachers, or community members. This will allow you to get experience with presenting, what types of questions people might ask, and also how to effectively present. Is it better to give a 2 minute memorized script, or also add a skit or a demonstration to make it more engaging?
 
 ## Conclusion
-We hope that this guide helped you in the basics of FIRST Lego League and wish you the best in your journey forward. **Our team is always happy to mentor your team!** Feel free to reach out to us with the following methods:
-
-Email - [ftc18225@gmail.com](mailto:ftc18225@gmail.com)\\
-Website - [https://ftc18225.nw1robotics.org](https://ftc18225.nw1robotics.org)
+We hope that this guide helped you in the basics of FIRST Lego League and wish you the best in your journey forward. **Reach for STEM Initiative is always happy to mentor your team!** Feel free to email us at Feel free to email us at [{{ site.email }}](mailto:{{ site.email }}).

@@ -6,15 +6,8 @@ nav_order: 1
 
 # Welcome
 
-We are  [FTC Team 18225 High Definition], a passionate robotics team from Bellevue, Washington made up of 15 enthusiastic members.
+We are Reach for STEM Initiative, a Bellevue-based organization dedicated to inspiring the next generation of innovators. Our mission is to break down barriers and expand access to FIRST robotics and STEM education for students across the globe.
 
-Since our founding in 2021, we are proud to have achieved
+Founded in 2025, we are driven by a passion for giving students meaningful opportunities to learn, explore, and grow through hands-on STEM experiences.
 
-* 4-time Inspire Award Winners at the Washington State Championship
-* 1-time Inspire Award 2nd Place
-* 5-time World Championship Qualifications
-* Division Finalists at the World Championship
-
-One of our primary goals is to continue impacting our community through STEM educational outreach. In this way, we hope that this resource serves as a valuable resource to support your team's FLL journey.
-
-[FTC Team 18225 High Definition]: https://ftc18225.nw1robotics.org/
+We’re excited to share this resource with you and hope it becomes a valuable guide and source of inspiration on your team’s FLL journey!

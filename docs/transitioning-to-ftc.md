@@ -5,7 +5,7 @@ nav_order: 4
 # Transitioning to FTC FAQ
 {: .no_toc }
 
-By STEM Reach Initiative
+By Reach for STEM Initiative
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -60,8 +60,5 @@ Even though block programming is an option many teams use, we recommend using Ja
 Your team has the advantage of starting early in the summer! We recommend that you utilize this time to train your team members and conduct a few outreach events. Giving the students hands-on experience will serve extremely valuable during this time.
 
 ## Mentoring
-Our team is always happy to mentor your team! Feel free to reach out to us with the following methods:
+Reach for STEM Initiative is always happy to mentor your team! Feel free to email us at [reachforstem.initiative@gmail.com](mailto:reachforstem.initiative@gmail.com).
 
-Email - [ftc18225@gmail.com](mailto:ftc18225@gmail.com)
-
-Website - [https://ftc18225.nw1robotics.org](https://ftc18225.nw1robotics.org)
