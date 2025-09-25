@@ -19,7 +19,7 @@ In this lesson, we’ll learn about and use the LEGO Spike Prime Color Sensor an
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1JgbHUTJ68Nk3DTNnjoiw_Mi6n5th7DtU/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1GnpQbEHs02B20wqSqYxvopoPqhav8D5N/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Quiz
 <content-quiz>

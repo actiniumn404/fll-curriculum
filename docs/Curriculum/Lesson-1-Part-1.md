@@ -19,7 +19,7 @@ In this lesson, we’ll explore the LEGO Spike Prime kit and learn the basics of
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1Vjuc3TPj9cR_Le__zAOaLIXPykQb6bW8/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1DwusXEiYzmaooNYCjzeBfCu7f7rVOFz9/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Quiz
 <content-quiz>

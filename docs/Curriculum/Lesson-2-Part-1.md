@@ -19,7 +19,7 @@ In this lesson, we’ll go over how to build the Spike Prime drive base. The dri
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1QerlRgFztG5Rs9megxFdMmmNPD_yDnzo/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1odpXyKRCSONqgMDECms7cvidDLJ8YYFj/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Quiz
 <content-quiz>

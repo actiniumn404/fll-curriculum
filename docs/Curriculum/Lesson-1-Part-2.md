@@ -19,7 +19,7 @@ In this lesson, we’ll go through the SPIKE app tutorial activities to learn ho
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1W0Wn8Zza_MCCfGsC7gFG67T8dpvOrMQ5/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/18M7yb0sV-hfja5N-0g4yVuHzp2Qftm1e/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Quiz
 <content-quiz>

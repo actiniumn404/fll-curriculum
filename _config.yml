@@ -32,7 +32,7 @@ footer_content: "Copyright &copy; 2025 Reach for STEM Initiative"
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 #last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-logo: "/assets/images/stemreachlogobg.png"
+logo: "/assets/images/reach_for_stem_initiative_logo.png"
 
-favicon_ico: "/assets/images/stemreachlogobg.png"
+favicon_ico: "/assets/images/reach_for_stem_initiative_logo.png"
 permalink: pretty

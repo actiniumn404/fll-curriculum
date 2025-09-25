@@ -19,7 +19,7 @@ In this lesson, we’ll learn about and use the LEGO Spike Prime Force Sensor an
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1B4S9WQMUIMDT38ktRqAYGN0rlAHzwVxZ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1dlaNuBUumi3PCXgAL1E8GRYXn3p5ye3G/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Quiz
 <content-quiz>
