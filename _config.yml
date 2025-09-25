@@ -4,7 +4,7 @@ description: Our mission is to break down barriers and expand access to FIRST ro
 
 email: reachforstem.initiative@gmail.com
 
-theme: just-the-docs
+theme: just-the-guides
 
 url: https://github.com/actiniumn404/fll-curriculum
 repo: https://github.com/actiniumn404/fll-curriculum
@@ -18,7 +18,7 @@ heading_anchors: true
 
 defaults:
   - scope:
-      path: "docs" # an empty string here means all files in the project
+      path: "guides" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"

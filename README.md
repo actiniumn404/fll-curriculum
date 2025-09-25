@@ -59,7 +59,7 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
     ```yaml
     title: YOUR TITLE
     description: YOUR DESCRIPTION
-    theme: just-the-docs
+    theme: just-the-guides
 
     url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
 
@@ -116,7 +116,7 @@ The GitHub Actions workflow that builds and deploys your site to Github Pages is
       runs-on: ubuntu-latest
       defaults:
         run:
-          working-directory: docs
+          working-directory: guides
     ```
 
 2.  Set the `working-directory` param for the Setup Ruby step.
@@ -128,7 +128,7 @@ The GitHub Actions workflow that builds and deploys your site to Github Pages is
           ruby-version: '3.3'
           bundler-cache: true
           cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
+          working-directory: '${{ github.workspace }}/guides'
     ```
 
 3.  Set the path param for the Upload artifact step:
@@ -137,7 +137,7 @@ The GitHub Actions workflow that builds and deploys your site to Github Pages is
     - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/_site/
+          path: guides/_site/
     ```
 
 4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
@@ -148,7 +148,7 @@ The GitHub Actions workflow that builds and deploys your site to Github Pages is
         branches:
           - "main"
         paths:
-          - "docs/**"
+          - "guides/**"
     ```
 
 ## Licensing and Attribution
