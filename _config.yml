@@ -3,6 +3,8 @@ tagline: A Bellevue-based organization dedicated to inspiring the next generatio
 description: Our mission is to break down barriers and expand access to FIRST robotics and STEM education for students across the globe.
 
 email: reachforstem.initiative@gmail.com
+youtube: https://www.youtube.com/@ReachforSTEM.Initiative
+instagram: https://www.instagram.com/reachforstem.initiative
 
 theme: just-the-docs
 
@@ -26,7 +28,7 @@ defaults:
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2025 Reach for STEM Initiative"
+footer_content: ""
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

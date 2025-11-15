@@ -110,6 +110,36 @@ content-quiz{
     }
 }
 
+.page-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-footer p{
+    margin: 0;
+}
+
+.page-footer .contact{
+    display: block;
+    background: #d8b4fe;
+    height: fit-content;
+    line-height: 1;
+    padding: 5px;
+    border-radius: 100%;
+    fill: white;
+}
+
+.page-footer .contact:hover{
+    background: #c084fc;
+}
+
+.site-contact{
+    display: flex;
+    gap: 5px;
+}
+
+
 @media print{
     .site-logo{
         display: none;
