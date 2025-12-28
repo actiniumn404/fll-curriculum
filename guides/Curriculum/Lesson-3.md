@@ -19,7 +19,7 @@ In this lesson, we’ll learn about logic, such as if-then statements and loops.
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1rpJd9FoYfFDdWQ6BQXRDak7_iDcQmmJj/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NH3F7fX0RWw?si=z1Ai_rxdILG78Ka-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Quiz
 <content-quiz>

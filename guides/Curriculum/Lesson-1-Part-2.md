@@ -18,8 +18,8 @@ In this lesson, we’ll go through the SPIKE app tutorial activities to learn ho
 
 ---
 
-## Video
-<iframe src="https://drive.google.com/file/d/18M7yb0sV-hfja5N-0g4yVuHzp2Qftm1e/preview" width="640" height="480" allow="autoplay"></iframe>
+## Video (2:40-7:28)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qaxXF7g9L1Y?si=UaLdZcz4NzgXz5QZ&start=160&end=448;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Quiz
 <content-quiz>

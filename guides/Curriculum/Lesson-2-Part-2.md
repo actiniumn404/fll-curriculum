@@ -19,8 +19,7 @@ In this lesson, we'll learn about the different programming blocks used to make 
 ---
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1N5UG4BMIQWhCcd78C0WIn_hOi_dn4875/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8oeQVQwdD4?si=ATYWsjP2pb7ZSflO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Quiz
 
 
